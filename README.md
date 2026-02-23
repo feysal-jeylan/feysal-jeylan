@@ -86,21 +86,30 @@ const feysal = {
   availableForHire: true,
   contact: "feysaljeylan67@gmail.com"
 };
-📫 Let's Connect
-I'm actively looking for Frontend Development opportunities on Upwork.
+```
+
+## 📫 Let's Connect
+
+I'm actively looking for **Frontend Development** opportunities on Upwork.
 
 <div align="center">
-https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Portfolio-%2523000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cad10ded435b78f3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feysal-jeylan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://feysi-best.github.io/portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feysaljeylan67@gmail.com)
 
 </div>
+
+---
+
 <div align="center">
-💬 Open to opportunities and collaborations!
-⭐️ From Feysal Jeylan
-Mobile-First Web Developer
+  
+### 💬 Open to opportunities and collaborations!
 
-https://komarev.com/ghpvc/?username=feysal-jeylan&color=blue&style=flat-square
+⭐️ From [Feysal Jeylan](https://github.com/feysal-jeylan)  
+*Mobile-First Web Developer*
 
-</div> ```
+![Profile Views](https://komarev.com/ghpvc/?username=feysal-jeylan&color=blue&style=flat-square)
+
+</div>
